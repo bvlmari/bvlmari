@@ -1,11 +1,9 @@
 ### Hi im Mariano,
 ### a young student still new to the tech world, intellectually curious, hoping to learn the most I can while im here.
-![visual](https://github.com/bvlmari/bvlmari/assets/60488652/11dd9443-f7cb-41b5-bf67-e867ed5834ac)
-<img src="./visual.svg">
 <div id="stats">
-  <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=[bvlmari]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvlmari&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <h2>Cool stats</h2>
+  <img src="https://streak-stats.demolab.com?user=[bvlmari]&theme=transparent&fire=EB5454" alt="GitHub Streak" width="500px" height="500px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvlmari&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="370px" height="370px"/>
 </div>
 <!--
 **bvlmari/bvlmari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
