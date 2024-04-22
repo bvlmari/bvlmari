@@ -1,7 +1,7 @@
 ### Hi im Mariano,
 ### a young student still new to the tech world, intellectually curious, hoping to learn the most I can while im here.
 
-<img src="./mrFresh.png">
+<img src="./visual.svg">
 <div id="stats">
   <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=[bvlmari]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
