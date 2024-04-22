@@ -4,7 +4,7 @@
 <div id="stats">
   <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=[bvlmari]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[bvlmari]&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvlmari&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 <!--
 **bvlmari/bvlmari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
