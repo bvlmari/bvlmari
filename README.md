@@ -1,5 +1,5 @@
-### Hi im Mariano,
-### im a young student still new to the tech world, intellectually curious, hoping to learn the most I can while im here.
+### Hi Im Mariano,
+### a young student still new to the tech world, intellectually curious, hoping to learn the most I can while im here.
 
 <!--
 **bvlmari/bvlmari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
