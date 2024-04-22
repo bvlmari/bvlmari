@@ -1,4 +1,4 @@
-### Hi Im Mariano,
+### Hi im Mariano,
 ### a young student still new to the tech world, intellectually curious, hoping to learn the most I can while im here.
 
 <!--
