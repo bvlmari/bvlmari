@@ -1,6 +1,6 @@
 ### Hi im Mariano,
 ### a young student still new to the tech world, intellectually curious, hoping to learn the most I can while im here.
-![visual](https://github.com/bvlmari/bvlmari/assets/60488652/af8d1b4d-f8ea-479f-8bb6-7b31bbd8f4e8)
+![visual](https://github.com/bvlmari/bvlmari/assets/60488652/11dd9443-f7cb-41b5-bf67-e867ed5834ac)
 <img src="./visual.svg">
 <div id="stats">
   <h2>Stats</h2>
