@@ -2,8 +2,8 @@
 ### a young student still new to the tech world, intellectually curious, hoping to learn the most I can while im here.
 <div id="stats">
   <h2>Cool stats</h2>
-  <img src="https://streak-stats.demolab.com?user=[bvlmari]&theme=transparent&fire=EB5454" alt="GitHub Streak" width="500px" height="500px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvlmari&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="370px" height="370px"/>
+  <img src="https://streak-stats.demolab.com?user=[bvlmari]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvlmari&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="35%" height="35%"/>
 </div>
 <!--
 **bvlmari/bvlmari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
